@@ -1,0 +1,8 @@
+{
+    "description": "Utilería para exportar datos de comprobantes CFDI a una hoja de cálculo para una visualización más legible",
+    "version": "1.0",
+    "depends": "python",
+    "url": "https://gitlab.com/dnlsrl/cfdinfo/-/archive/master/cfdinfo-master.zip",
+    "extract_dir": "cfdinfo",
+    "bin": [["cfdinfo/src/cfdinfo.py", "cfdinfo"]]
+}
